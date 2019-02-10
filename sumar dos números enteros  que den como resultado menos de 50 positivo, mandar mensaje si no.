@@ -1,0 +1,8 @@
+INICIO
+Ingresa un número entero
+Leer y asignar en variable num1
+Ingresa el segundo número entero
+Leer y asignar en variable num2
+sumar num1 y num2
+mostrar el resultado
+verificar si el resultado es <= 50

@@ -6,3 +6,5 @@ Leer y asignar en variable num2
 sumar num1 y num2
 mostrar el resultado
 verificar si el resultado es <= 50
+si, pasar a 10, no, mostrar mensaje de error
+Fin.
